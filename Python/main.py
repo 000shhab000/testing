@@ -1,5 +1,5 @@
 x=0
 if (x==1):
-    print("hello python")
+    print("hello shhab")
 else :
-    print("good bye python")
+    print("good bye shhab")
